@@ -167,7 +167,7 @@ Les RH peuvent désormais rechercher les talents nécessaires à l'entreprise pa
                 <div class="col-md-6 col-xs-12 about-video">
                     <!-- Vimeo Video -->
                     <div class="embed-responsive embed-responsive-16by9">
-                    <iframe src="https://player.vimeo.com/video/547913080" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+                    <iframe src="https://vimeo.com/591127383" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
                     </div>
                 </div>
                 <!-- End of Second Column -->
